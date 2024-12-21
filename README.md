@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Gabriel
 
-<!--
-**onhoudini/onhoudini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My english it's still not really good, I have a good capacity understanding texts and audios, but I still don't have enough practice writting (I take some help of copilot to write what is bellow here).
 
-Here are some ideas to get you started:
+I am 24 years old and a Computer Science student at UNIPAMPA. My focus is on learning about Artificial Intelligence (AI) and its applications. I have worked with LLM, Transformer, SBERT, among others, and I am currently studying more deeply to better understand these concepts and enhance my capacity to apply them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also taking a Cyber Security course at DESEC, developing an online RPG project, and learning drawing techniques. 
+
+### Skills and Interests
+- **Artificial Intelligence**: LLM, Transformer, SBERT
+- **Cyber Security**: Course at DESEC
+- **Programming**: Python, C, C++.
+- **Creative Projects**: Developing an online RPG, drawing
+
+### Current Learning
+- In-depth study of AI technologies
+- Cyber security practices
+- Developing an online RPG
+- Improving drawing skills
+
+Feel free to connect with me!
